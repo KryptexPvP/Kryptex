@@ -34,9 +34,14 @@
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KryptexPvP&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KryptexPvP&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KryptexPvP&theme=cobalt&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KryptexPvP&theme=cobalt&hide_border=false" />
+</p>
+
 
 ---
 
