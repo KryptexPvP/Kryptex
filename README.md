@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7BB&center=true&vCenter=true&width=1000&lines=Learning+Developer+from+Germany;Minecraft+Developer+%7C+Plugin+Creator;Always+learning+new+things.;Turning+ideas+into+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7BB&center=true&vCenter=true&width=1000&lines=Developer+from+Germany;Minecraft+Plugin+Developer;FiveM+Developer+%7C+Lua+Programming;Roblox+Developer+%7C+Game+Systems;Java+%7C+Kotlin+%7C+Lua;Open+Source+Contributor;Always+improving+and+learning;Turning+ideas+into+reality." alt="Typing SVG" />
 </a>
 
 <h1 align="center">👋 Hey, I'm Kryptex</h1>
