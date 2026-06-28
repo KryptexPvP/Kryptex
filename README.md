@@ -30,6 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="40" alt="mariadb logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+
+</div>
+<br clear="bottom">
+<div align="center">
+  <img src="https://camo.githubusercontent.com/e34131d68a998bcce0e896206834cc101281ea8d8dae8ce71264c91887399de7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c68746d6c2c6373732c6a732c74732c646f636b65722c646973636f72646a732c6c75612c6e6f64656a732c707974686f6e2c6d7973716c2c6669676d612c6e6578742c72656163742c7461696c77696e642c632c6370702c6373" height="50" alt="logo"/>
 </div>
 
 ## 📈 GitHub Stats
